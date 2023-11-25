@@ -1,3 +1,4 @@
+//WAP in C to encrypt a text file. the encryption involves shifting each character one position to left in alphabetical order, eg. A becomes B, Z becomes A. The encrypted file should be stored as another text file. You may also add an decryptor in it. 
 
 
 #include <stdio.h>

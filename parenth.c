@@ -1,3 +1,6 @@
+//You are given a string consisting of only '(' and ')' characters. Your task is to determine whether the parentheses are balanced. A string of parentheses is considered balanced if every opening parenthesis has a corresponding closing parenthesis and they occur in the correct order.
+
+
 #include <stdio.h>
 
 int isBalanced(char* s) {
